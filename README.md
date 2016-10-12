@@ -23,6 +23,7 @@ Os dispositivos são caros. Quando são mais baratos, estão em promoção ou n�
 Veja:
 
 > [Bluetooth Oxímetro de pulso](http://www.dx.com/pt/p/bluetooth-fingertip-pulse-oximeter-orange-white-2-x-aaa-258859#.V_5Rn8kg1ZU)
+
 > [jzk-301 OLED Oxímetro de Pulso](http://www.dx.com/pt/p/jzk-301-oled-finger-pulse-oximeter-heart-rate-monitor-blue-435437?tc=BRL&gclid=CK---L_F1c8CFVYGkQod5M4FmQ#.V_5Rj8kg1ZU)
 
 ## Roteiro

@@ -1,5 +1,17 @@
 # IniciacaoCientifica
 
+## Roteiro
+- [ ] Procurar dispositivos para medir pressão cardíaca
+- [ ] Procurar dispositivos que medem temperatura corporal
+- [ ] Procurar sensores de batimento cardíaco
+- [ ] Procurar sensores de oximetria
+- [ ] Escolher um produto para fazer os testes e ser usado como base para o aplicativo
+- [ ] Encontrar as interfaces, procurando a especificação do produto, como se comunicar com o mesmo
+- [ ] Escrever código do pacote Bluetooth
+- [ ] Exibir informações estatísticas no celular
+- [ ] Identificar picos na pulsação, indicando problemas cardíacos
+- [ ] Conectar à uma base de dados, com telefone do paciente, telefone de parentes, nome do paciente e histórico cardíaco
+
 ## Sensores
 - [Monitor Cardíaco Smart Run] (https://www.walmart.com.br/item/3035003/sk?utm_source=google-pla&adtype=pla&utm_medium=ppc&utm_term=3035003&utm_campaign=informatica+3035003)
 - [Testo 905i - Termômetro inteligente] (http://www.instrutemp.com.br/produto/1373/testo+905i+-+termometro+inteligente+com+bluetooth+para+operacao+via+smartphone+ou+tablet)
@@ -22,19 +34,6 @@
 - Veja:
 - [Bluetooth Oxímetro de pulso](http://www.dx.com/pt/p/bluetooth-fingertip-pulse-oximeter-orange-white-2-x-aaa-258859#.V_5Rn8kg1ZU)
 - [jzk-301 OLED Oxímetro de Pulso](http://www.dx.com/pt/p/jzk-301-oled-finger-pulse-oximeter-heart-rate-monitor-blue-435437?tc=BRL&gclid=CK---L_F1c8CFVYGkQod5M4FmQ#.V_5Rj8kg1ZU)
-
-## Roteiro
-- [ ] Procurar dispositivos para medir pressão cardíaca
-- [ ] Procurar dispositivos que medem temperatura corporal
-- [ ] Procurar sensores de batimento cardíaco
-- [ ] Procurar sensores de oximetria
-- [ ] Escolher um produto para fazer os testes e ser usado como base para o aplicativo
-- [ ] Encontrar as interfaces, procurando a especificação do produto, como se comunicar com o mesmo
-- [ ] Escrever código do pacote Bluetooth
-- [ ] Exibir informações estatísticas no celular
-- [ ] Identificar picos na pulsação, indicando problemas cardíacos
-- [ ] Conectar à uma base de dados, com telefone do paciente, telefone de parentes, nome do paciente e histórico cardíaco
-
 
 ## Anotações
 

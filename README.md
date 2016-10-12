@@ -66,3 +66,7 @@ https://www.wearable-technologies.com/2015/04/wearables-in-healthcare/
 
 http://www.tutorialspoint.com/android/android_bluetooth.htm
 
+http://www.ebah.com.br/content/ABAAAAXvsAE/avaliacao-dos-sinais-vitais-semiologia
+
+http://aenfermagem.com.br/procedimentos/sinais-vitais/
+

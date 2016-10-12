@@ -16,6 +16,8 @@
 - [AliveCor Kardia Mobile ECG](http://www.alivetec.com/alivecor-heart-monitor/)
 - [Oxímetro de Dedo Bluetooth](http://eletromarket.com/item/oximetro-de-dedo-bluetooth.html)
 - [Bluetooth Oxímetro de pulso](http://www.dx.com/pt/p/bluetooth-fingertip-pulse-oximeter-orange-white-2-x-aaa-258859#.V_5Rn8kg1ZU)
+- [Adulto Spo2 Sensor de pulso Bluetooth](http://pt.aliexpress.com/item/Adult-Bluetooth-Fingertip-Pulse-Oximetry-Spo2-Sensor-Oximeter-De-Pulse/803164905.html)
+- [Accurate Oxímetro de pulso Sensor De Android e iSO Bluetooth](https://portuguese.alibaba.com/product-detail/accurate-pulse-oximeter-sensor-android-and-iso-bluetooth-blood-testing-equipment-for-oem-and-odm-60430194728.html)
 
 ##O problema
 Os dispositivos são caros. Quando são mais baratos, estão em promoção ou não tem comunicação bluetooth.

@@ -18,6 +18,7 @@
 - [Bluetooth Oxímetro de pulso](http://www.dx.com/pt/p/bluetooth-fingertip-pulse-oximeter-orange-white-2-x-aaa-258859#.V_5Rn8kg1ZU)
 - [Adulto Spo2 Sensor de pulso Bluetooth](http://pt.aliexpress.com/item/Adult-Bluetooth-Fingertip-Pulse-Oximetry-Spo2-Sensor-Oximeter-De-Pulse/803164905.html)
 - [Accurate Oxímetro de pulso Sensor De Android e iSO Bluetooth](https://portuguese.alibaba.com/product-detail/accurate-pulse-oximeter-sensor-android-and-iso-bluetooth-blood-testing-equipment-for-oem-and-odm-60430194728.html)
+- [Pulseira Inteligente / Monitor de Batimento Cardíaco / Monitoramento do Sono Bluetooth](http://www.lightinthebox.com/pt/bluetooth-4-0-smartband-pulseira-amp-monitor-de-freq-encia-cardiaca-de-fitness-atividade-impermeavel-para-ios-android-smartphones_p5005113.html?currency=BRL&litb_from=paid_adwords_shopping&sku=441_7392&utm_source=google_shopping&utm_medium=cpc&adword_mt=&adword_ct=148226140795&adword_kw=&adword_pos=1o8&adword_pl=&adword_net=g&adword_tar=&adw_src_id=7274643821_678547184_32838601097_pla-255906899742&gclid=CJf4wIj_2s8CFYUJkQodaJQPCA)
 
 ##O problema
 Os dispositivos são caros. Quando são mais baratos, estão em promoção ou não tem comunicação bluetooth.

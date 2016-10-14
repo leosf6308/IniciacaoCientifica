@@ -29,6 +29,13 @@ Veja:
 
 > [jzk-301 OLED Oxímetro de Pulso](http://www.dx.com/pt/p/jzk-301-oled-finger-pulse-oximeter-heart-rate-monitor-blue-435437?tc=BRL&gclid=CK---L_F1c8CFVYGkQod5M4FmQ#.V_5Rj8kg1ZU)
 
+## Avaliação de sinais vitais
+\*Seção sob verificação
+
+http://www.ebah.com.br/content/ABAAAAXvsAE/avaliacao-dos-sinais-vitais-semiologia
+
+http://aenfermagem.com.br/procedimentos/sinais-vitais/
+
 ## Roteiro
 - [ ] Procurar dispositivos para medir pressão cardíaca
 - [ ] Procurar dispositivos que medem temperatura corporal
@@ -66,8 +73,4 @@ http://www.aplaceformom.com/blog/2014-6-1-cutting-edge-products-for-seniors/
 https://www.wearable-technologies.com/2015/04/wearables-in-healthcare/
 
 http://www.tutorialspoint.com/android/android_bluetooth.htm
-
-http://www.ebah.com.br/content/ABAAAAXvsAE/avaliacao-dos-sinais-vitais-semiologia
-
-http://aenfermagem.com.br/procedimentos/sinais-vitais/
 
